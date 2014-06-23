@@ -23,9 +23,12 @@ Practice** 3rd ed. by Douglas Stinson.
 Screenshots
 -----------
 
-[Screenshot 1: Interactive Illustration of the Algorithm](Screenshot1.png)
+Interactive Illustration of the Algorithm:
 
-[Screenshot 2: Demonstration of an attack](Screenshot2.png)
+![Screenshot 1: Interactive Illustration of the Algorithm](Screenshot1.png)
+
+Demonstration of an attack:
+![Screenshot 2: Demonstration of an attack](Screenshot2.png)
 
 
 License
